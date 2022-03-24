@@ -1,5 +1,5 @@
-### 🎮Game, 🎈Dream, 💻Programmer
-<hr/>
+# 🎮Game, 🎈Dream, 💻Programmer
+
 <br/>
 <div>
   <h3>😎Introduce</h3>
