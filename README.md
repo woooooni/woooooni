@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=020202&height=100&section=header&text=🐾Tae-Won Kim🐾&fontSize=24&fontColor=efefef&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=020202&height=100&section=header&text=🐾Kim Tae-Won🐾&fontSize=24&fontColor=efefef&reversal=true"/>
   <div>
     <h3>🎮Game, 💻Programmer, 🎈Dream</h3>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoooooni&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
