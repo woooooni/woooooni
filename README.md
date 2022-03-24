@@ -19,9 +19,9 @@
     <br/>
      🌈💕My favorite character is the little prince. Because it does not lose its innocence under any circumstances.
     <br/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woooooni)(https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woooooni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     <br/>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woooooni&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woooooni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </div>
 
