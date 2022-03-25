@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=100&section=header&text=🐾Kim Tae-Won🐾&fontSize=24&fontColor=efefef&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=100&section=header&text=🐾Kim Tae-Won🐾&fontSize=24&fontColor=000000&reversal=true"/>
   <div>
     <h3>🎮Game, 💻Programmer, 🎈Dream</h3>
     <a href="https://hits.seeyoufarm.com">
