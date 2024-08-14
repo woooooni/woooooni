@@ -42,10 +42,6 @@
   
   <br/>
   <br/>
-  <img src="http://mazandi.herokuapp.com/api?handle=rlaxodnjs6574&theme=warm"/>
-  
-  <br/>
-  <br/>
   
   |GitHub Stats|Language| 
   |:---:|:---:| 
