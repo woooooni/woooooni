@@ -42,7 +42,7 @@
 
   <br/>
   <br/>
-  
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxodnjs6574"/>
   <br/>
   <br/>
   
